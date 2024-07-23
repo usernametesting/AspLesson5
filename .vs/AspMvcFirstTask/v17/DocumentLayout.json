@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\localProjects\\AspMvcFirstTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\product\\getbyprice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\product\\getbyprice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\mydb\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\mydb\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\product\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\product\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\product\\showbyprice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\product\\showbyprice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\product\\showbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\product\\showbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|d:\\localprojects\\aspmvcfirsttask\\aspmvcfirsttask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AF4FC6-EF1D-45D4-97D0-A69464CAC26D}|AspMvcFirstTask\\AspMvcFirstTask.csproj|solutionrelative:aspmvcfirsttask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowByPrice.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\ShowByPrice.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\Product\\ShowByPrice.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\ShowByPrice.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\Product\\ShowByPrice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T16:37:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetByPrice.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\GetByPrice.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\Product\\GetByPrice.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\GetByPrice.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\Product\\GetByPrice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T16:35:34.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowById.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\ShowById.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\Product\\ShowById.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\ShowById.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\Product\\ShowById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T16:30:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetById.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\GetById.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\Product\\GetById.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\GetById.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\Product\\GetById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T16:19:53.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T16:12:05.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AspMvcFirstTask\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswFcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-23T15:57:59.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:54:39.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:54:38.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:13:56.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T10:44:48.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Models\\Product.cs",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Models\\Product.cs",
+              "RelativeToolTip": "AspMvcFirstTask\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:32:30.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Models\\ProductViewModel.cs",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "AspMvcFirstTask\\Models\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:32:26.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDb.cs",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\MyDb\\ProductDb.cs",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\MyDb\\ProductDb.cs",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\MyDb\\ProductDb.cs",
+              "RelativeToolTip": "AspMvcFirstTask\\MyDb\\ProductDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:32:14.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T10:28:01.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "AspMvcFirstTask\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T10:22:34.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AspMvcFirstTask\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\localProjects\\AspMvcFirstTask\\AspMvcFirstTask\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AspMvcFirstTask\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwEoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:07:10.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

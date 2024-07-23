@@ -1,0 +1,11 @@
+﻿<form asp-action="GetByPrice" method="post" class="form-inline">
+    <div class="form-group mb-2">
+        <label for="id" class="sr-only">Product Price</label>
+        <input type="number" class="form-control" name="price" placeholder="Enter Product Price" required />
+    </div>
+    <button type="submit" class="btn btn-primary mb-2">Get</button>
+</form>
+
+<div>
+    <a asp-controller="Product" asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

@@ -1,0 +1,41 @@
+﻿@model Product
+
+
+<h2>Product Details</h2>
+
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            <label asp-for="Name"></label>
+        </dt>
+        <dd class="col-sm-10">
+            <input asp-for="Name" class="form-control" readonly />
+        </dd>
+        <dt class="col-sm-2">
+            <label asp-for="Description"></label>
+        </dt>
+        <dd class="col-sm-10">
+            <textarea asp-for="Description" class="form-control" readonly></textarea>
+        </dd>
+        <dt class="col-sm-2">
+            <label asp-for="Price"></label>
+        </dt>
+        <dd class="col-sm-10">
+            <input asp-for="Price" class="form-control" readonly />
+        </dd>
+        <dt class="col-sm-2">
+            <label asp-for="Category"></label>
+        </dt>
+        <dd class="col-sm-10">
+            <input asp-for="Category" class="form-control" readonly />
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-controller="Product" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+    <a asp-controller="Product" asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

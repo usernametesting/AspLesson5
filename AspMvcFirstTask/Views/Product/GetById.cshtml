@@ -1,0 +1,11 @@
+﻿<form asp-action="GetById" method="post" class="form-inline">
+    <div class="form-group mb-2">
+        <label for="id" class="sr-only">Product ID</label>
+        <input class="form-control" name="id" placeholder="Enter Product ID" required />
+    </div>
+    <button type="submit" class="btn btn-primary mb-2">Get</button>
+</form>
+
+<div>
+    <a asp-controller="Product" asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
